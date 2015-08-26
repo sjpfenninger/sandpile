@@ -1,0 +1,7 @@
+*.pyc
+*.so
+sandpile.egg-info
+build
+
+sandpile/core.cpp
+sandpile/core.html
